@@ -20,7 +20,8 @@ json_normalize()可以将json转换成表格形式
 2. pandas常规方法   
 pd.DataFrame()   
 **json_normalize比dataframe灵活，且更加使用**
-## :ocean: 数据缺失的填充   
+## :ocean: 数据缺失的填充  
+[参考博客](https://blog.csdn.net/weixin_39549734/article/details/81221276)
 ```
 import numpy as np
 ```
