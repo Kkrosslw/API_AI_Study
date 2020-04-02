@@ -25,3 +25,9 @@ pd.DataFrame()
 import numpy as np
 ```
 导入这个模块，使用模块里的fillna()函数
+## :ram: 将表格行列互相转换
+利用 `.T ` 实现表格行列相互转换，其实就是对矩阵的转换   
+例如：
+```
+pd.DataFrame(pd['某个字典名']).T
+```
