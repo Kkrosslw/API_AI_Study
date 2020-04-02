@@ -16,7 +16,7 @@
 import pandas as pd
 from pandas.io.json import json_normalize
 ```
-json_normalize()可以将json转换成表格形式
+json_normalize()可以将json转换成表格形式   
 2. pandas常规方法   
 pd.DataFrame()   
 **json_normalize比dataframe灵活，且更加使用**
