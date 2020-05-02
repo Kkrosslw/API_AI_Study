@@ -4,3 +4,5 @@
 ### :wind_chime: week3 : 进行人脸验证，检测相似度；分析远程图像；分析本地图像；缩略图
 ### :crystal_ball: week4 : 提取印刷体文本；提取手写体文本；python使用域识别；高德地图地理编码、路径规划、行政区域搜索、搜索POI
 ### :full_moon_with_face: week5 : 学习高德API所有功能
+### :leaves: week6 : 认识推荐系统以及协同过滤的原理
+### :earth_americas: week7 : 继续认识推荐系统
