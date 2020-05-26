@@ -6,3 +6,6 @@
 ### :full_moon_with_face: week5 : 学习高德API所有功能
 ### :leaves: week6 : 认识推荐系统以及协同过滤的原理
 ### :earth_americas: week7 : 继续认识推荐系统
+### :palm_tree: week8 : 语音识别&语音合成
+### :cherry_blossom: week9 ： 
+### :blossom: week10 ： 
