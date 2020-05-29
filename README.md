@@ -7,5 +7,6 @@
 ### :leaves: week6 : 认识推荐系统以及协同过滤的原理
 ### :earth_americas: week7 : 继续认识推荐系统
 ### :palm_tree: week8 : 语音识别&语音合成
-### :cherry_blossom: week9 ： 
-### :blossom: week10 ： 
+### :cherry_blossom: week9 ： 自然语言处理&产品经理如何使用API
+### :blossom: week10 ： API与经济&价值主张
+### :umbrella: week11 : 价值主张2.0&用户旅程&智能化解决方案
